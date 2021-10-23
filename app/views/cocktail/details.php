@@ -3,8 +3,7 @@
     <div class="navbar2">
         <a href="/cocktail/"><img src="../../assets/img/cocktail.png"></img></a>
         <div class="topnav-right">
-        <a href="#">Repository</a>
-        <a href="#">Contact</a>
+        <a href="https://github.com/almirteixeira/cocktail-mvc">Repository</a>
         </div>
         <div class="resp">
         <a href="#">Menu</a>
@@ -21,8 +20,8 @@
 
             <div class="tab-content">
                 <div id="tab1" class="tab active">
-                    <form>
-                        <input id="cocktailsearch" type="text" placeholder="Search the cocktail by name">
+                    <form action="/cocktail/list" method="post">
+                        <input name="name" id="cocktailsearch" type="text" placeholder="Search the cocktail by name">
                         <button id="cocktailsubmit" type="submit">Search</button>
                     </form>
                     <br>

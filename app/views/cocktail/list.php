@@ -6,8 +6,7 @@
         <div class="navbar2">
         <a href="/cocktail/"><img src="../../assets/img/cocktail.png"></img></a>
         <div class="topnav-right">
-        <a href="#">Repository</a>
-        <a href="#">Contact</a>
+        <a href="https://github.com/almirteixeira/cocktail-mvc">Repository</a>
         </div>
         <div class="resp">
         <a href="#">Menu</a>
