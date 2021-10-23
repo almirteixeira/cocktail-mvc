@@ -73,10 +73,10 @@ cocktail-mvc
 ```
 ## Screenshot
 
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
+![alt text](https://github.com/almirteixeira/cocktail-mvc/blob/main/screenshot/1.png)
+![alt text](https://github.com/almirteixeira/cocktail-mvc/blob/main/screenshot/2.png)
+![alt text](https://github.com/almirteixeira/cocktail-mvc/blob/main/screenshot/3.png)
+![alt text](https://github.com/almirteixeira/cocktail-mvc/blob/main/screenshot/4.png)
 
 
 ## License
